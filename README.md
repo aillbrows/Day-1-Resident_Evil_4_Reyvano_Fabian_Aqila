@@ -20,4 +20,4 @@ _... dan masih banyak lagi._
 
 _**Pendapat saya soal workshop:**_ Saya mengira kalau kegiatan worksho akan membuat aplikasi sungguhan menggunakan AI. Saya sudah berantusias, namun, karena banyak mahasiswa lain yang belum paham atau mengenali _GitHub_, _Git_ dll., saya merasa **sedikit kecewa karena tidak diberi kesempatan untuk membuat aplikasi atau sistem.**
 
-_Untuk mengakses dokumentasi tiap materi (termasuk workshop), buka folder **Dokumentasi.**_
+_Untuk mengakses dokumentasi tiap materi (termasuk workshop), buka folder **Dokumentasi**_ (untuk sekarang masih berisi file test).
