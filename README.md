@@ -15,6 +15,7 @@ _Git_ memiliki perintah yang dijalankan di _Command Prompt_, seperti:
 | `git clone <url>` | Menjiplak _repository_ yang sudah ada |
 | `git add <file>` | Menambahkan file atau perubahan yang belum dilacak |
 | `git --version` | Mengecek versi _Git_ yang terinstal di sistem |
+
 _... dan masih banyak lagi._
 
 
